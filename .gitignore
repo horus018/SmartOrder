@@ -1,0 +1,22 @@
+# Node
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Metro cache
+.cache/
+
+# Build outputs
+dist/
+build/
+
+# OS
+.DS_Store
+
+# Editor caches
+*.swp
+
+# Firebase
+firebase.config.*

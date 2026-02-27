@@ -1,0 +1,24 @@
+{
+  "orders": [
+    {
+      "id": "order-1",
+      "items": [
+        {
+          "id": "1",
+          "item": "Espresso",
+          "description": "30ml • intense",
+          "quantity": 2,
+          "price": 2.4
+        },
+        {
+          "id": "2",
+          "item": "Cappuccino",
+          "description": "200ml • creamy",
+          "quantity": 1,
+          "price": 2.4
+        }
+      ],
+      "observations": "No sugar in espresso"
+    }
+  ]
+}

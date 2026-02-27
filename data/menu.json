@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Espresso",
+      "description": "30ml • intense",
+      "price": 1.20,
+      "price_formatted": "€ 1,20",
+      "imagePath": "../../assets/mock_espresso.png"
+    },
+    {
+      "id": "2",
+      "name": "Cappuccino",
+      "description": "200ml • creamy",
+      "price": 2.40,
+      "price_formatted": "€ 2,40",
+      "imagePath": "../../assets/mock_cappuccino.png"
+    },
+    {
+      "id": "3",
+      "name": "Mixed Pie",
+      "description": "Bread, cheese and ham",
+      "price": 3.90,
+      "price_formatted": "€ 3,90",
+      "imagePath": "../../assets/mock_mixed_pie.png"
+    },
+    {
+      "id": "4",
+      "name": "Chicken w/ lemon",
+      "description": "Baked or fried",
+      "price": 5.30,
+      "price_formatted": "€ 5,30",
+      "imagePath": "../../assets/mock_chicken.png"
+    },
+        {
+      "id": "5",
+      "name": "Espresso",
+      "description": "30ml • intense",
+      "price": 1.20,
+      "price_formatted": "€ 1,20",
+      "imagePath": "../../assets/mock_espresso.png"
+    },
+    {
+      "id": "6",
+      "name": "Cappuccino",
+      "description": "200ml • creamy",
+      "price": 2.40,
+      "price_formatted": "€ 2,40",
+      "imagePath": "../../assets/mock_cappuccino.png"
+    },
+    {
+      "id": "7",
+      "name": "Mixed Pie",
+      "description": "Bread, cheese and ham",
+      "price": 3.90,
+      "price_formatted": "€ 3,90",
+      "imagePath": "../../assets/mock_mixed_pie.png"
+    },
+    {
+      "id": "8",
+      "name": "Chicken w/ lemon",
+      "description": "Baked or fried",
+      "price": 5.30,
+      "price_formatted": "€ 5,30",
+      "imagePath": "../../assets/mock_chicken.png"
+    }
+  ]
+}
